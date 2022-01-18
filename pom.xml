@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com</groupId>
-	<artifactId>springkafka</artifactId>
+	<artifactId>springkafkaproducer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springkafka</name>
-	<description>Demo project for Spring Boot with kafka</description>
+	<name>springkafkaproducer</name>
+	<description>Demo project for Spring Boot with kafka - Producer</description>
 	<properties>
 		<java.version>11</java.version>
 		<avro.version>1.11.0</avro.version>
